@@ -7,7 +7,7 @@ import {
   clearGallery,
   showLoadMoreBtn,
   hideLoadMoreBtn,
-  showEndOfResultsMessage,
+  showNoResultsMessage,
 } from './gallery';
 
 const formEl = document.querySelector('#search-form');
